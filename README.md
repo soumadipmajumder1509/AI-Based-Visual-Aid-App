@@ -1,6 +1,8 @@
 # AI-Based Visual Aid App
    Development of AI-Based Visual Aid with Integrated Reading Assistant for the Completely Blind
 
+   Project Report PDF is also available.
+
 # Overview
    AI-Based Visual Aid App is an intelligent mobile application built using React Native, Expo, and OpenAI's APIs.
    It is designed to offer an accessible voice-based and image-based interaction interface powered by artificial intelligence.
